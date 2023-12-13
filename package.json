@@ -1,0 +1,15 @@
+{
+  "name": "week5",
+  "version": "1.0.0",
+  "description": "\"tailwindcss installation\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./jonah.css -o ./william/jonah.css --watch"
+  },
+  "author": "jonah nsikan",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.6"
+  }
+}
